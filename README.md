@@ -1,7 +1,7 @@
 # PortifolioAPI
 Portfólio com os projetos desenvolvidos em cada semestre destacando as contribuições individuais
 
-# OPERAÇÃO LAVA BOT - 1º Semestre de Banco de Dados FATEC/SJC 2019/2.
+## OPERAÇÃO LAVA BOT - 1º Semestre de Banco de Dados FATEC/SJC 2019/2.
 
 O objetivo do projeto é que um grupo de alunos desenvolva uma aplicação em que
 seja utilizado um WebBot desenvolvido pelo grupo, usando o na solução de um
@@ -79,7 +79,7 @@ de forma mais eficiente.
 - Utiliza uma biblioteca de pandas para tratamento de arquivo, sendo ordenada e exibida para o usuário de acordo com o critério de pesquisa que ele escolheu.
 - Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
 
-# MEGA DEV - 2º Semestre de Banco de Dados FATEC/SJC 2020/1.
+## MEGA DEV - 2º Semestre de Banco de Dados FATEC/SJC 2020/1.
 
 O principal objetivo do projeto é desenvolver um sistema para a Visão Estratégica de Projetos,
 o sistema sera desenvolvido para facilitar o planejamento de projetos de uma empresa.
@@ -129,7 +129,7 @@ https://developers.google.com/chart/interactive/docs/gallery/ganttchart
 
 
 
-# KIND OF - 3º Semestre de Banco de Dados FATEC/SJC 2020/2.
+## KIND OF - 3º Semestre de Banco de Dados FATEC/SJC 2020/2.
 
 <p align="center">O projeto integrador consiste na criação de uma aplicação web com dashboard. </p>
 
@@ -224,21 +224,15 @@ Você também pode acompanhar através desse [link](https://gitlab.com/ferpsalle
 
 1. Tela de login
 
-<p align="center">
-  <img src="./bd/login.png" alt="Logo" width=50% height=50%>
-</p>
+![image](https://user-images.githubusercontent.com/19509794/142551407-77e48041-f2ab-479a-ac65-84deed0ac78a.png)
 
 2. Tela de Cadastro
 
-<p align="center">
-  <img src="./bd/cad.png" alt="Logo" width=50% height=50%>
-</p>
+![image](https://user-images.githubusercontent.com/19509794/142551439-66b4ca89-3c29-4ee3-ac1c-8456bd337f1e.png)
 
 3. Home View
 
-<p align="center">
-  <img src="./bd/HOME.png" alt="Logo" width=50% height=50%>
-</p>
+![image](https://user-images.githubusercontent.com/19509794/142551465-aa3e6428-9c3a-4274-a3f9-1eafdc8c3703.png)
 
 ### :computer: Referências <a name="-referencias"/></a> 
 1. https://spring.io/projects/spring-boot
