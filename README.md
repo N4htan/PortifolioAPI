@@ -103,7 +103,17 @@ o sistema sera desenvolvido para facilitar o planejamento de projetos de uma emp
 
 ### LEVANTAMENTO DE REQUISITOS
 
-![image](https://user-images.githubusercontent.com/19509794/142542143-b081cddd-2cc9-428f-bd5c-3e1206623ff6.png)
+![image](https://user-images.githubusercontent.com/19509794/142543911-364a1b41-8d61-49fe-9a67-ff16a37f4f69.png)
+![image](https://user-images.githubusercontent.com/19509794/142544009-4a450d42-4ff8-4277-a6b8-bc685ce68148.png)
+![image](https://user-images.githubusercontent.com/19509794/142544119-a947b6e8-79cb-4f0e-99c9-2ef4d93bdf82.png)
+![image](https://user-images.githubusercontent.com/19509794/142544251-9cdff6f8-1ab9-45d5-8626-2c6dc379f2af.png)
+![image](https://user-images.githubusercontent.com/19509794/142544366-f5ce6f29-30ff-4b9f-8432-4cf12504dbdd.png)
+![image](https://user-images.githubusercontent.com/19509794/142544598-4b5538c3-1497-4c20-83db-2a802ddbc0db.png)
+![image](https://user-images.githubusercontent.com/19509794/142544746-4aa3199f-d5e1-43c1-8f62-37924ca0d87d.png)
+![image](https://user-images.githubusercontent.com/19509794/142544824-b87e6776-637a-4e5f-8249-fa1c0b9d0473.png)
+![image](https://user-images.githubusercontent.com/19509794/142545011-3b3bacf2-08ac-4426-805c-0f342012d944.png)
+![image](https://user-images.githubusercontent.com/19509794/142545099-a7dd88b6-d263-4e86-ae0f-4934d11b2da3.png)
+![image](https://user-images.githubusercontent.com/19509794/142545187-5505337a-3d31-46e1-9ac1-0b07080e4e3c.png)
 
 ### Como Instalar o git na máquina:
 
