@@ -1,9 +1,7 @@
 # PortifolioAPI
 Portfólio com os projetos desenvolvidos em cada semestre destacando as contribuições individuais
 
-# WebBot
-
-Projeto Integrador do curso de Banco de Dados da Fatec-SJC 1º Semestre 2019.
+# OPERAÇÃO LAVA BOT - 1º Semestre de Banco de Dados FATEC/SJC 2019/2.
 
 O objetivo do projeto é que um grupo de alunos desenvolva uma aplicação em que
 seja utilizado um WebBot desenvolvido pelo grupo, usando o na solução de um
@@ -81,7 +79,7 @@ de forma mais eficiente.
 - Utiliza uma biblioteca de pandas para tratamento de arquivo, sendo ordenada e exibida para o usuário de acordo com o critério de pesquisa que ele escolheu.
 - Os recursos da biblioteca Matplotlib serão utilizados para que o usuário possa visualizar os dados em forma de gráfico.
 
-# Projeto Integrador II - 2º Semestre de Banco de Dados FATEC/SJC
+# MEGA DEV - 2º Semestre de Banco de Dados FATEC/SJC 2020/1.
 
 O principal objetivo do projeto é desenvolver um sistema para a Visão Estratégica de Projetos,
 o sistema sera desenvolvido para facilitar o planejamento de projetos de uma empresa.
@@ -131,7 +129,7 @@ https://developers.google.com/chart/interactive/docs/gallery/ganttchart
 
 
 
-# Projeto Integrador - KIND OF
+# KIND OF - 3º Semestre de Banco de Dados FATEC/SJC 2020/2.
 
 <p align="center">O projeto integrador consiste na criação de uma aplicação web com dashboard. </p>
 
